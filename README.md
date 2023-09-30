@@ -80,7 +80,7 @@
 
 "Domain-Agnostic Tuning-Encoder for Fast Personalization of Text-To-Image", Moab Arar, Rinon Gal, Yuval Atzmon, Gal Chechik, Danny Cohen-Or, Ariel Shamir, Amit Bermano [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/47.pdf)
 
-"Language as the Medium: Multimodal Video Classification through text only", Laura Hanu, Anita Ver_, James Thewlis [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/48.pdf)
+"Language as the Medium: Multimodal Video Classification through text only", Laura Hanu, Anita Verő, James Thewlis [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/48.pdf)
 
 "3D Reconstruction using ID-Pose Camera Pose Estimation and RenderDiffusion Model", wenmo qiu, XINHAN DI [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/49.pdf)
 
