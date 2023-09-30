@@ -30,7 +30,7 @@
 
 "Video-and-Language (VidL) models and their cognitive relevance", Anne W Zonneveld, Albert Gatt, Iacer Calixto [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/25.pdf)
 
-"Towards an Exhaustive Evaluation of Vision-Language Foundation Models", Emmanuelle J Salin, Stephane Ayache, Benot Favre [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/26.pdf)
+"Towards an Exhaustive Evaluation of Vision-Language Foundation Models", Emmanuelle J Salin, Stephane Ayache, Benoît Favre [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/26.pdf)
 
 "TextManiA: Enriching Visual Feature by Text-driven Manifold Augmentation", Moon Ye-Bin, Jisoo Kim, Hongyeob Kim, kilho son, Tae-Hyun Oh [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/28.pdf)
 
