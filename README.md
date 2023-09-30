@@ -4,10 +4,6 @@
 
 "Enhancing CLIP with GPT-4: Harnessing Visual Descriptions as Prompts", Mayug Maniparambil, Chris Vorster, Derek Molloy, Noel Murphy, Kevin McGuinness, Noel O Connor [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/2.pdf)
 
-"Multiple Concepts for Multiple Subjects Video Generation", Zewen Jin, XINHAN DI, Yawen Liu, Xinrong Chen [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/3.pdf)
-
-"Leveraging Vision-Language Foundation Models for Fine-Grained Downstream Tasks", Denis Coquenet, Cl\x8ement Rambour, Nicolas Thome, Emanuele Dalsasso [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/5.pdf)
-
 "Retrieving-to-Answer: Zero-Shot Video Question Answering with Frozen Large Language Models", Junting Pan, Ziyi Lin [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/6.pdf)
 
 "Interaction-Aware Prompting for Zero-Shot Spatio-Temporal Action Detection", Wei-Jhe Huang, Jheng Hsien Yeh, Min-Hung Chen, Gueter Josmy Faure, Shang-Hong Lai [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/8.pdf)
@@ -30,21 +26,15 @@
 
 "Painter: Teaching Auto-regressive Language Models to Draw Sketches", Reza Pourreza, Apratim Bhattacharyya, Sunny P Panchal, Mingu Lee, Pulkit Madan, Roland Memisevic [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/18.pdf)
 
-"SAD: Segment Any RGBD", Jun CEN, Yizheng Wu, Kewei Wang, Xingyi Li, Jingkang Yang, Yixuan Pei, Lingdong Kong, Ziwei Liu, Qifeng Chen [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/22.pdf)
-
 "Video Attribute Prototype Network: A New Perspective for Zero-Shot Video Classification", Bo Wang, Kaili Zhao, Hongyang Zhao, Shi Pu, Bo Xiao, Jun Guo [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/24.pdf)
 
 "Video-and-Language (VidL) models and their cognitive relevance", Anne W Zonneveld, Albert Gatt, Iacer Calixto [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/25.pdf)
 
-"Towards an Exhaustive Evaluation of Vision-Language Foundation Models", Emmanuelle J Salin, Stephane Ayache, Beno\x94t Favre [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/26.pdf)
-
-"C-SAW: Self-Supervised Prompt Learning for Image Generalization in Remote Sensing", Avigyan Bhattacharya, Mainak Singha, Ankit Jha, Biplab Banerjee [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/27.pdf)
+"Towards an Exhaustive Evaluation of Vision-Language Foundation Models", Emmanuelle J Salin, Stephane Ayache, Benot Favre [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/26.pdf)
 
 "TextManiA: Enriching Visual Feature by Text-driven Manifold Augmentation", Moon Ye-Bin, Jisoo Kim, Hongyeob Kim, kilho son, Tae-Hyun Oh [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/28.pdf)
 
-"Zero-shot Segmentation with Stable Diffusion", Yuma Honbu, Keiji Yanai [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/29.pdf)
-
-"Coarse to Fine Frame Selection for Online Open-ended Video Question Answering", Sai Vidyaranya Nuthalapati, Anirudh Tunga [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/blob/main/30.pdf)
+"Coarse to Fine Frame Selection for Online Open-ended Video Question Answering", Anirudh Tunga, Sai Vidyaranya Nuthalapati [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/30.pdf)
 
 "StylerDALLE: Language-Guided Style Transfer Using a Vector-Quantized Tokenizer of a Large-Scale Generative Model", Zipeng Xu, Enver Sangineto, Nicu Sebe [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/31.pdf)
 
@@ -66,8 +56,6 @@
 
 "Learning Human-Human Interactions in Images from Weak Textual Supervision", Morris Alper [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/40.pdf)
 
-"3D Reconstruction in Diffusion with Compact Parameter and High Resolution", Jintao Sun [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/41.pdf)
-
 "Sound Source Localization is All about Cross-Modal Alignment", Arda Senocak, Hyeonggon Ryu, Junsik Kim, Tae-Hyun Oh, Hanspeter Pfister, Joon Son Chung [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/42.pdf)
 
 "Multimodal Laughter Reasoning with Language Models", Lee Hyun, Kim Sung-Bin, Seungju Han, Youngjae Yu, Tae-Hyun Oh [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/43.pdf)
@@ -82,10 +70,9 @@
 
 "Language as the Medium: Multimodal Video Classification through text only", Laura Hanu, Anita Verő, James Thewlis [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/48.pdf)
 
-"3D Reconstruction using ID-Pose Camera Pose Estimation and RenderDiffusion Model", wenmo qiu, XINHAN DI [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/49.pdf)
-
 "Teaching Structured Vision & Language Concepts to Vision & Language Models", Sivan Doveh, Assaf Arbelle, Sivan Harary, Eli Schwartz, Roei Herzig, Raja Giryes, Rogerio Feris, Rameswar Panda, Shimon Ullman, Leonid Karlinsky [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/50.pdf)
 
 "LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections", Muhammad Jehanzeb Mirza [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/51.pdf)
 
 "Text-only training for image captioning using noise-injected clip", David Nukrai [pdf](https://github.com/EliSchwartz/MMFM23/blob/main/52.pdf)
+
